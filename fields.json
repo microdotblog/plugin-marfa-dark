@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "title": "Marfa dark mode",
+  "description": "Adds support for Dark Mode in the Marfa design.",
+  "includes": [
+    "/dark.css"
+  ]
+}

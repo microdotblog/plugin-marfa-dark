@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+	body {
+		color: white;
+		background: black;
+	}
+
+	nav.main-nav {
+		background: black;
+	}
+
+	a, nav.main-nav a, #footer a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
+		color: white;
+	}
+}

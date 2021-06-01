@@ -1,18 +1,19 @@
 @media (prefers-color-scheme: dark) {
 	body {
-		color: white;
-		background: black;
+		color: #E5E9EC;
+		background: #252323;
 	}
 
 	nav.main-nav {
-		background: black;
+		background: #151414;
+		color: #70798C
 	}
 
 	a, nav.main-nav a, #footer a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
-		color: white;
+		color: #CFD2B2;
 	}
 	
 	#post-meta div span.dark {
-		color: gray;	
+		color: #CFD2B2;	
 	}
 }

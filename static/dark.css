@@ -6,7 +6,16 @@
 
 	nav.main-nav {
 		background: #2A2828;
-		color: #70798C
+		
+	}
+
+	nav.main-nav a {
+		color: #90a3ca
+	}
+
+	.cta {
+		color: #2a2828;
+		background-color: #90a3ca;
 	}
 
 	a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {

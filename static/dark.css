@@ -8,18 +8,18 @@
 	}
 
 	h1, h2, h3 {
-		color: #2B343B;
+		color: #E5E9EC;
 	}
 
 	a, p a, ul a, ol a {
-		color: #2B343B;
+		color: #B8C3CC;
 		font-weight: bold;
 		transition: none !important;
 		box-shadow: none !important;
 	}
 
 	span.divider {
-		color: #2B343B;
+		background-color: #2B343B;
 	}
 
 
@@ -42,7 +42,7 @@
 	}
 
 	nav.main-nav a:hover {
-		color: #E5E9EC;
+		color: #B8C3CC;
 	}
 
 	nav.main-nav a.cta {
@@ -53,7 +53,8 @@
 
 	nav.main-nav a.cta:hover {
 		color: #2a2828;
-		background-color: #90A3cA;
+		background-color: #B8C3CC;
+		border: 2px solid #B8C3CC;
 	}
 
 	/* POST */

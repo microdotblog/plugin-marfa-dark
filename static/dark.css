@@ -5,12 +5,24 @@
 	}
 
 	nav.main-nav {
+		display: flex;
+		vertical-align: middle;
+
 		background: #151414;
 		color: #70798C
 	}
 
-	a, nav.main-nav a, #footer a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
+	a, nav.main-nav a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
 		color: #CFD2B2;
+		text-decoration: none !important;
+	}
+
+	#footer a {
+		color: #70798C;
+	}
+
+	#footer a:hover {
+		background: #151414;
 	}
 	
 	#post-meta div span.dark {

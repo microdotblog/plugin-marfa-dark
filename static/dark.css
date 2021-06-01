@@ -4,6 +4,11 @@
 		background: #151414;
 	}
 
+	nav.main-nav a, #footer a, #post-nav a, p a {
+		transition: none !important;
+		box-shadow: none !important;
+	}
+
 	nav.main-nav {
 		background: #2A2828;
 		
@@ -13,14 +18,18 @@
 		color: #90a3ca
 	}
 
-	.cta {
+	a.cta {
 		color: #2a2828;
 		background-color: #90a3ca;
 	}
 
-	a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
+	h1, h2, h3 {
+		color: #E5E9EC;
+	}
+
+	a, #post-nav a, p a, ul a, ol a {
 		color: #CFD2B2;
-		text-decoration: none !important;
+		font-weight: bold;
 	}
 
 	#footer a {

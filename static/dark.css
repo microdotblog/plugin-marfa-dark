@@ -13,7 +13,6 @@
 
 	a, p a, ul a, ol a {
 		color: #B8C3CC;
-		font-weight: bold;
 		transition: none !important;
 		box-shadow: none !important;
 	}
@@ -79,6 +78,10 @@
 	#post-nav a {
 		color: #CFD2B2;
 		font-weight: bold;
+	}
+
+	#post-meta {
+		border-color: #2B343B !important;
 	}
 
 	.dates {

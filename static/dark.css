@@ -8,14 +8,18 @@
 	}
 
 	h1, h2, h3 {
-		color: #E5E9EC;
+		color: #2B343B;
 	}
 
 	a, p a, ul a, ol a {
-		color: #CFD2B2;
+		color: #2B343B;
 		font-weight: bold;
 		transition: none !important;
 		box-shadow: none !important;
+	}
+
+	span.divider {
+		color: #2B343B;
 	}
 
 

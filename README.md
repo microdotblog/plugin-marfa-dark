@@ -1,8 +1,8 @@
-# Marfa Dark Mode PLUS
+# Marfa Dark Mode PLUS 1.0.0
 
 Based on the color palette containing:
     - Raisin Black,
-    - Slate Gray
+    - Slate Gray,
     - Platinum
     - Pale Spring Bud
 

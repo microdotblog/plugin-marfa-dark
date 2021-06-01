@@ -5,9 +5,6 @@
 	}
 
 	nav.main-nav {
-		display: flex;
-		vertical-align: middle;
-
 		background: #151414;
 		color: #70798C
 	}
@@ -18,11 +15,7 @@
 	}
 
 	#footer a {
-		color: #70798C;
-	}
-
-	#footer a:hover {
-		background: #151414;
+		color: #E9724C;
 	}
 	
 	#post-meta div span.dark {

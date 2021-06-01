@@ -11,4 +11,8 @@
 	a, nav.main-nav a, #footer a, #post-nav a, p a, ul a, ol a, h1, h2, h3 {
 		color: white;
 	}
+	
+	#post-meta div span.dark {
+		color: gray;	
+	}
 }

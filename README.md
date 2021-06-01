@@ -1,6 +1,7 @@
 # Marfa Dark Mode PLUS 1.0.0
 
 Based on the color palette containing:
+
     - Raisin Black,
     - Slate Gray,
     - Platinum/Silver Sand/Gunmetal (shades)

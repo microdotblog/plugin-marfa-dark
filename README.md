@@ -1,6 +1,6 @@
-# Marfa Dark Mode PLUS 1.0.0
+# Marfa Dark Mode Plugin
 
-Based on the color palette containing:
+Provides a Dark Mode for Marfa desig based on the color palette containing:
 
     - Raisin Black,
     - Slate Gray,

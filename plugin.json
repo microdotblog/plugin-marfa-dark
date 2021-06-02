@@ -1,7 +1,8 @@
+  
 {
   "version": "1.1",
-  "title": "Marfa Dark Mode PLUS",
-  "description": "Adds unified Dark Mode to the Marfa design.",
+  "title": "Marfa Dark Mode",
+  "description": "Adds support for Dark Mode in the Marfa design.",
   "includes": [
     "/dark.css"
   ]

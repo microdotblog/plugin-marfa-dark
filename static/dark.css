@@ -17,6 +17,10 @@
 		box-shadow: none !important;
 	}
 
+	b, strong {
+		color: #B8C3CC;
+	}
+	
 	span.divider {
 		background-color: #2B343B;
 	}

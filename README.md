@@ -1,6 +1,6 @@
 # Marfa Dark Mode Plugin
 
-Provides a Dark Mode for Marfa desig based on the color palette containing:
+Provides a Dark Mode for Marfa design based on the color palette containing:
 
     - Raisin Black,
     - Slate Gray,

@@ -25,7 +25,6 @@
 		background-color: #2B343B;
 	}
 
-
 	/* NAVIGATION */
 
 	nav.main-nav a {
@@ -109,5 +108,10 @@
 
 	#footer a:hover {
 		color: #E5E9EC;
+	}
+
+	/* BLOGROLLS */
+	.blogroll a {
+		color: #FFFFFF;
 	}
 }
